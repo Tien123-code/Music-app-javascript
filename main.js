@@ -24,7 +24,7 @@ const app = {
     {
         name: "Âm  thầm bên em",
         singer: "Sơn Tùng M-TP",
-        path: "songs/AmThamBenEm-SonTungMTP-4066476.mp3",
+        path: "songs/Âm Thầm Bên Em.mp3",
         image: "images/amthambenem.jpg"
     },
     {
